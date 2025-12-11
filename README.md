@@ -39,6 +39,6 @@ An advanced Machine Learning pipeline designed to predict the **Band Gap** energ
 ---
 *Developed by Göktuğ Usta for ML Methodes & Sedef Korkmaz for Data Acquisition - Electrical & Electronics Engineer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goktug-usta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goktugusta/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sedef-korkmaz-11a817252)
